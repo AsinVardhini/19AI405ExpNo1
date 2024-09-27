@@ -41,7 +41,7 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-##PROGRAM: 
+## PROGRAM: 
 ```
 import random
 import time
@@ -226,9 +226,11 @@ environment.run(steps=10)
 print(environment.status)
 print(agent.performance)
 ```
-##OUTPUT:
+## OUTPUT:
+
 ![image](https://github.com/user-attachments/assets/3af7399d-99aa-4123-ab0b-046f339fa937)
 
-##RESULT:
+## RESULT:
+
 Thus, an AI agent is developed.
 
